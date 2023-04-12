@@ -1,1 +1,1 @@
-const Login = () => <h1>Login Component</h1>;
+const Login = () => <h1>Login Card</h1>;
